@@ -17,3 +17,24 @@ It also adds the ability to change characters and view resource consumption via 
 A detailed explanation of how the demo works is available on the itch.io page indicated.
 
 Feel free to check it out in either of its two versions, Windows or Linux.
+
+==============================================================================
+
+1.068 / 5.000
+Esta utilidad consiste en un personaje en tercera persona listo para usar con movimiento, cámara y animaciones.
+
+Esta utilidad utiliza el componente básico de movimiento del personaje y el componente de control de cámara.
+
+El movimiento de este personaje se configura mediante los cursores, la rotación de la cámara mediante el movimiento del ratón en el eje X y el zoom mediante la rueda central. Sin embargo, se puede configurar a tu gusto configurando los componentes mencionados anteriormente.
+
+El modelo utilizado es el maniquí femenino de mixamo; las animaciones también provienen de mixamo.com.
+
+Esta utilidad se ha probado en https://jocarpe.itch.io/third-person-character-demo
+
+Esta demo está en desarrollo continuo para probar todos los componentes desarrollados y en proceso de desarrollo futuro.
+
+También permite cambiar de personaje y ver el consumo de recursos mediante un plugin.
+
+Puedes encontrar una explicación detallada del funcionamiento de la demo en la página de itch.io indicada.
+
+No dudes en probarlo en cualquiera de sus dos versiones, Windows o Linux.
